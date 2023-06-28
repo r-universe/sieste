@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "sonify"]
 	path = sonify
 	url = https://github.com/cran/sonify
-	shallow = true
-	registered = true
 [submodule "SpecsVerification"]
 	path = SpecsVerification
 	url = https://github.com/cran/SpecsVerification
-	shallow = true
-	registered = true
