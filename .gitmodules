@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "sonify"]
-	path = sonify
-	url = https://github.com/cran/sonify
 [submodule "SpecsVerification"]
 	path = SpecsVerification
 	url = https://github.com/cran/SpecsVerification
+[submodule "sonify"]
+	path = sonify
+	url = https://github.com/cran/sonify
