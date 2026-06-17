@@ -7,4 +7,4 @@
 	url = https://github.com/cran/SpecsVerification
 [submodule "sonify"]
 	path = sonify
-	url = https://github.com/cran/sonify
+	url = https://github.com/sieste/sonify
