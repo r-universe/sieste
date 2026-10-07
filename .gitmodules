@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "SpecsVerification"]
 	path = SpecsVerification
-	url = https://github.com/cran/SpecsVerification
+	url = https://github.com/sieste/specsverification
 [submodule "sonify"]
 	path = sonify
 	url = https://github.com/sieste/sonify
